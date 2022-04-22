@@ -9,14 +9,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV3?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV3)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV3)
-[![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/AsmSafone)
-[![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/AsmSupport)
+[![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/TME_BOT_SUPPORT_CHANEL)
+[![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/TME_BOT_SUPPORT_CHAT)
 
-
-An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or Group Voice Chats.
+™Ꭰᥲʀκ͢☢Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ]™ Music player mentioned by ™❂​ꪀꪖ​ꪜꪖ​ꪀ𝓳ꪖ​ꪀꪖ 𝘴ꪖ𝓽​ꫝ𝘴𝓲​ꪀ​ᦔꪊ༒.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](https://t.me/AsmSupport) Group.
+Radio in [AsmSafone]() Channel & Music in [AsmSupport](https://t.me/TME_BOT_SUPPORT_CHANEL) Group.
 
 ## Special Features
 
@@ -64,14 +63,6 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - To download audio you can use [@SafoneMusicBot](http://t.me/SafoneMusicBot) or `/song` command to the bot.
 - Use `/help` to know about other commands & their usage.
 
-## Requirements
-
-- Python 3.6 or higher.
-- [Telegram API Key](https://docs.pyrogram.org/intro/quickstart#enjoy-the-api)
-- [FFmpeg Python](https://www.ffmpeg.org/)
-- Telegram [String Session](http://t.me/genStr_robot) of the account.
-- User Accounts Needs To Be An Admin In The Channel or Group.
-- Must Start A Voice Chat In Channel/Group Before Running The Bot.
 
 ## Run On VPS
 
@@ -86,29 +77,4 @@ $ python3 main.py
 ```
 
 
-## License
-```sh
-RadioPlayerV3, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
-```
-
-## Credits
-
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/RadioPlayerV3) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/RadioPlayerV3/graphs/contributors)! ❤️
 
