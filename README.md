@@ -13,6 +13,7 @@
 [![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/TME_BOT_SUPPORT_CHAT)
 
 ™Ꭰᥲʀκ͢☢Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ]™ Music player mentioned by ™❂​ꪀꪖ​ꪜꪖ​ꪀ𝓳ꪖ​ꪀꪖ 𝘴ꪖ𝓽​ꫝ𝘴𝓲​ꪀ​ᦔꪊ༒.
+[![MAFIABOT LOGO](https://telegra.ph/file/4ec1fcfbf7b03cdeb7c2e.jpg)]
 
 This is also the source code of the bot which is being used for playing
 Radio in [AsmSafone]() Channel & Music in [AsmSupport](https://t.me/TME_BOT_SUPPORT_CHANEL) Group.
